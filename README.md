@@ -6,8 +6,29 @@ A responsive personal portfolio website to showcase my skills, projects, and con
 Visit my portfolio here: [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
-![Projects Page](screenshots/projects.png)
+
+### **Homepage**
+![Homepage](screenshots/home.png)
+![Homepage-bottom](screenshots/home_footer.png)
+
+### **About Page**
+![About Page](screenshots/about.png)
+
+### **Contact Page**
+![Contact Page](screenshots/contact.png)
+
+### **Interests Section**
+![Interests - Part 1](screenshots/interests1.png)
+![Interests - Part 2](screenshots/interests2.png)
+
+### **Projects Page**
+![Projects - Part 1](screenshots/project1.png)
+![Projects - Part 2](screenshots/project2.png)
+![Projects - Part 3](screenshots/project3.png)
+
+### **Skills Section**
+![Skills Page](screenshots/skill.png)
+
 
 ## Features
 - 📄 **Home Page**: Introductory bio and professional photo.
