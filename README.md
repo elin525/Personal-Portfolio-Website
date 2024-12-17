@@ -2,9 +2,6 @@
 
 A responsive personal portfolio website to showcase my skills, projects, and contact information.
 
-## Live Demo
-Visit my portfolio here: [https://elin525.github.io/portfolio](https://elin525.github.io/portfolio)
-
 ## Screenshots
 
 ### **Homepage**
@@ -45,6 +42,4 @@ Visit my portfolio here: [https://elin525.github.io/portfolio](https://elin525.g
 - Formspree (for contact form)
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/elin525/portfolio.git
+
