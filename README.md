@@ -3,7 +3,7 @@
 A responsive personal portfolio website to showcase my skills, projects, and contact information.
 
 ## Live Demo
-Visit my portfolio here: [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)
+Visit my portfolio here: [https://elin525.github.io/portfolio](https://elin525.github.io/portfolio)
 
 ## Screenshots
 
@@ -47,4 +47,4 @@ Visit my portfolio here: [https://your-username.github.io/portfolio](https://you
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/elin525/portfolio.git
