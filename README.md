@@ -39,7 +39,8 @@ A responsive personal portfolio website to showcase my skills, projects, and con
 - HTML
 - CSS
 - JavaScript
-- Formspree (for contact form)
-
+- 
 ## How to Run
+1. Download Live Server on VScode
+2. After installed Live Server, right click the file to open with Live Server
 
